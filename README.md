@@ -28,7 +28,6 @@ I thrive on combining diverse interests and technologies to create innovative so
     <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
 </p>
 
 **Backend:**
@@ -41,6 +40,7 @@ I thrive on combining diverse interests and technologies to create innovative so
 <p align="left">
     <img src="https://img.shields.io/badge/Directus-263238?style=flat-square&logo=directus&logoColor=white" />
     <img src="https://img.shields.io/badge/Nuxt_Studio-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ginko-87285E?style=flat-square&logoColor=white" />
     <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
 </p>
 
